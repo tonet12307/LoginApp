@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_mainactivity2">Welcome to MainActivity2!</string>
+    <string name="welcome_myapp">Welcome MyApp</string>
+    <string name="coding_computer">Coding Computer</string>
+</resources>
